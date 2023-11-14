@@ -1,1 +1,2 @@
 Đây là file chức năng hiển thị sản phẩm của máy B
+Nội dung chỉnh sủa home của máy A
