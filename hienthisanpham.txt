@@ -1,2 +1,3 @@
 Đây là file chức năng hiển thị sản phẩm của máy B
 Nội dung chỉnh sủa home của máy A
+Đây là chức năng home được xây dựng bởi máy B
